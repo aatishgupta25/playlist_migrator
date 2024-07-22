@@ -14,7 +14,7 @@ This project allows you to migrate your Spotify playlists to YouTube, creating a
 - Google Developer Account with YouTube Data API v3 enabled
 ## Installation
 1. Clone this repository:
-git clone [https://github.com/aatishgupta25/spotify-to-youtube-migrator.git](https://github.com/aatishgupta25/playlist_migrator)
+git clone [https://github.com/aatishgupta25/playlist_migrator.git](https://github.com/aatishgupta25/playlist_migrator)
 cd spotify-to-youtube-migrator
 2. Install required packages:
 pip install spotipy google-auth-oauthlib google-api-python-client
